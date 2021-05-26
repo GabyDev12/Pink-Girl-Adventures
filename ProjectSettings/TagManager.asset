@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Initial_Door
+  - Boss_Door
+  - Door
+  - Enemy
+  - Boss
+  - LimitEnemy
+  - Box
+  - Heart
+  - Rune
+  - Chest
+  - Key
+  - Tombstone
+  - Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Character
+  - Water
+  - UI
+  - Envirorment
+  - Enemy
+  - Box
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4016362513
+    locked: 0
+  - name: Middle ground
+    uniqueID: 1572336347
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 435171719
+    locked: 0
